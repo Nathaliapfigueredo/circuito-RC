@@ -1,11 +1,11 @@
 # Projeto: Análise do Circuito RC com Arduino
 
 ## Objetivo
-Investigar o comportamento de carga e descarga de um capacitor em um circuito RC (Resistor–Capacitor), utilizando o Arduino Uno para medir a variação de tensão e o Python para gerar gráficos comparativos entre as tensões no resistor e no capacitor ao longo do tempo.
+Investigar o comportamento de carga e descarga de um capacitor em um circuito RC (Resistor–Capacitor), utilizando o Arduino Uno para medir a variação de tensão e o Python para gerar gráficos comparativos entre as tensões no resistor e no capacitor ao longo do tempo. Neste experimento, o circuito RC foi montado e monitorado por meio do Arduino Uno, permitindo observar o comportamento da tensão no resistor (VR) e no capacitor (VC) durante os processos de carga e descarga.
 
 ## Entendimento da Teoria 
 
-Com o objetivo de entender como esses fenômenos funcinando trago um pouco da teoria por trás. Os circuitos Resistor–Capacitor são amplamente utilizados em sistemas eletrônicos por sua capacidade de armazenar e liberar energia de forma controlada. Eles aparecem em filtros, temporizadores, sensores e sistemas de controle analógico.   Neste experimento, o circuito RC foi montado e monitorado por meio do Arduino Uno, permitindo observar o comportamento da tensão no resistor (VR) e no capacitor (VC) durante os processos de carga e descarga.
+Com o objetivo de entender como esses fenômenos funcinando trago um pouco da teoria por trás. Os circuitos Resistor–Capacitor são amplamente utilizados em sistemas eletrônicos por sua capacidade de armazenar e liberar energia de forma controlada. Eles aparecem em filtros, temporizadores, sensores e sistemas de controle analógico. 
 
 A análise desses fenômenos baseia-se nas leis exponenciais de variação de tensão e na constante de tempo (τ), que determina a velocidade com que o capacitor se carrega ou descarrega. As equações matemáticas a seguir descrevem o comportamento dinâmico do circuito, permitindo comparar os valores experimentais medidos com os resultados teóricos esperados.
 
@@ -119,14 +119,7 @@ Cada linha contém:
 
 Tempo (ms)   Tensão no Resistor (V)   Tensão no Capacitor (V)
 
-Exemplo:
-
-11260  1.62  3.38
-
-11663  1.56  3.44
-
-12065  1.50  3.50
-...
+<img width="155" height="257" alt="image" src="https://github.com/user-attachments/assets/e663717d-5b7b-4060-8b21-467c1f6bf80d" />
 
 ## Plotagem dos Gráficos (Python)
 
