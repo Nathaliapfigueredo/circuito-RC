@@ -5,7 +5,7 @@ Investigar o comportamento de carga e descarga de um capacitor em um circuito RC
 
 ## Entendimento da Teoria 
 
-Com o objetivo de entender como esses fenômenos funcinando trago um pouco da teoria por trás. Os circuitos Resistor–Capacitor são amplamente utilizados em sistemas eletrônicos por sua capacidade de armazenar e liberar energia de forma controlada. Eles aparecem em filtros, temporizadores, sensores e sistemas de controle analógico. 
+Com o objetivo de entender como esses fenômenos funcinando trago um pouco da teoria por trás como um adicional ao trabalho. Os circuitos Resistor–Capacitor são amplamente utilizados em sistemas eletrônicos por sua capacidade de armazenar e liberar energia de forma controlada. Eles aparecem em filtros, temporizadores, sensores e sistemas de controle analógico. 
 
 A análise desses fenômenos baseia-se nas leis exponenciais de variação de tensão e na constante de tempo (τ), que determina a velocidade com que o capacitor se carrega ou descarrega. As equações matemáticas a seguir descrevem o comportamento dinâmico do circuito, permitindo comparar os valores experimentais medidos com os resultados teóricos esperados.
 
